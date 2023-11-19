@@ -1,0 +1,77 @@
+body{
+    background-color: transparent;
+    padding: 0;
+}
+
+/* For Chrome, Edge, and Safari */
+::-webkit-scrollbar {
+    width: 9px;
+    margin-top: 0.5cm; 
+    /* Set the width of the scrollbar */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    margin-top: 0.5cm; 
+    background-color: #5f90e8; /* Set the color of the scrollbar thumb */
+    border-radius: 6px; /* Set the border radius of the scrollbar thumb */
+  }
+  
+  ::-webkit-scrollbar-track {
+    margin-top: 0.5cm;
+    border-radius: 6px; 
+    background-color: #f1f1f1; /* Set the color of the scrollbar track */
+
+    
+  }
+  
+
+
+.filtre{
+cursor: pointer;
+width: min-content;
+height: 1cm;
+font-size: 20px;
+margin-left: 0cm;
+padding-bottom: 0.1cm;
+font-weight: bold;color: rgb(255, 255, 255);
+background-color: transparent;
+border: none !important;
+
+}
+
+.filtre:focus {
+border: 0px solid transparent !important;
+outline: none;
+}
+
+
+
+.filtre-container{
+padding-left: 1cm;
+height: 1cm;
+width: 7.5cm;
+border-radius: 8px;
+border: 1px solid white;
+display:flex;
+flex-direction: row;
+}
+
+
+.fixed-search {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        background: rgb(95,144,232);
+        background: linear-gradient(90deg, rgba(95,144,232,1) 0%, rgba(214,103,73,1) 100%);
+             
+        padding: 15px;
+    }
+
+    .bottom-head {
+        position: relative;
+        top: 1cm;
+        overflow-y: auto; /* Enable vertical scrolling for the container */
+         
+    }
