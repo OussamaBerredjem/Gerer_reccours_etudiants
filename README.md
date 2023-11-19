@@ -16,7 +16,7 @@
 - Display a list of all students in the database.
 
 <img src="https://www.imgbly.com/ib/i43OT4B3Kc.png" alt="i43OT4B3Kc"/>
-<img src="https://www.imgbly.com/ib/0gTcjPa66e.png" alt="0gTcjPa66e"/>
+<img src="https://i.postimg.cc/hGv78xxz/Capture-d-cran-2023-11-19-144525.png" alt="0gTcjPa66e"/>
 <img src="https://www.imgbly.com/ib/pJ60J2BZkZ.png" alt="pJ60J2BZkZ"/>
 <img src="https://www.imgbly.com/ib/oAKVflrnl3.png" alt="oAKVflrnl3"/>
 <img src="https://www.imgbly.com/ib/SHfCdkEZfO.png" alt="SHfCdkEZfO"/>
