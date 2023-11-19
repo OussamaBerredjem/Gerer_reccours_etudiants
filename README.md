@@ -16,13 +16,13 @@
 - Display a list of all students in the database.
 
 <img src="https://www.imgbly.com/ib/i43OT4B3Kc.png" alt="i43OT4B3Kc"/>
-<img src="https://www.imgbly.com/ib/Ro2iJ0GUfq.png" />
+<img src="https://www.imgbly.com/ib/OOPZlfYEEQ.png" alt="OOPZlfYEEQ"/>
 <img src="https://www.imgbly.com/ib/pJ60J2BZkZ.png" alt="pJ60J2BZkZ"/>
 <img src="https://www.imgbly.com/ib/oAKVflrnl3.png" alt="oAKVflrnl3"/>
 <img src="https://www.imgbly.com/ib/SHfCdkEZfO.png" alt="SHfCdkEZfO"/>
 <img src="https://www.imgbly.com/ib/JHgVXnkN73.png" alt="JHgVXnkN73"/>
 
-<img src="https://www.imgbly.com/ib/FREPzgcdVY.png" alt="FREPzgcdVY"/>
+<img src="https://www.imgbly.com/ib/JJ3iFXuXfC.png" alt="JJ3iFXuXfC"/>
 <img src="https://www.imgbly.com/ib/cI5LvAx68H.png" alt="cI5LvAx68H"/>
 
 
