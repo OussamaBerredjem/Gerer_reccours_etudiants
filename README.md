@@ -1,4 +1,4 @@
-# <span style="color:blue">With this Website, you can:</span>
+# <span style="color:blue">With this WebApp, you can:</span>
 
 ## **<span style="color:blue">Add new students</span>**
 -  add new students to the database.
